@@ -2145,10 +2145,9 @@ body {
   min-height: 188px;
 }
 .cid-rl6H1IxgHU {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, #efefef);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/background2.jpg");
 }
 .cid-rl6H1IxgHU .carousel-control {
   background: #000;
