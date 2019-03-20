@@ -2818,6 +2818,8 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rlbxXq194X {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-rlbxXq194X h1 {
@@ -3421,6 +3423,27 @@ body {
 .cid-rlbwJI2RP8 .cost {
   text-decoration: line-through;
   color: #767676;
+}
+.cid-rlc9P2RCmq {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rlc9P2RCmq .title {
+  margin-bottom: 2rem;
+}
+.cid-rlc9P2RCmq .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rlc9P2RCmq a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rlc9P2RCmq a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rlc9P2RCmq textarea.form-control {
+  min-height: 188px;
 }
 .cid-rlbvW7A6Rq {
   padding-top: 90px;
