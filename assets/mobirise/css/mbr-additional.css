@@ -1687,8 +1687,8 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rkTA689g24 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/dsc-3480-1-700x467.jpg");
 }
 .cid-rkTA689g24 .mbr-section-subtitle {
@@ -1713,7 +1713,7 @@ body {
 .cid-rkTA689g24 table {
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #cccccc;
+  border: 1px solid #ffffff;
   margin-bottom: 0;
 }
 .cid-rkTA689g24 table th {
@@ -1722,14 +1722,11 @@ body {
   border-bottom: none;
 }
 .cid-rkTA689g24 table th:hover {
-  background: #cccccc;
+  background: #ffffff;
   color: #000000;
 }
 .cid-rkTA689g24 table td {
-  border-top: 1px solid #cccccc;
-}
-.cid-rkTA689g24 table.table {
-  background: #ffffff;
+  border-top: 1px solid #ffffff;
 }
 .cid-rkTA689g24 .dataTables_filter {
   text-align: right;
